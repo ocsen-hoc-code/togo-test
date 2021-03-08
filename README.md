@@ -56,4 +56,4 @@ CREATE TABLE tasks (
 ![auth and create tasks request](https://github.com/manabie-com/togo/blob/master/docs/sequence.svg)
 
 ### Test
-go test ./tests/*/*_test.go
+- go test ./tests/*/*_test.go
